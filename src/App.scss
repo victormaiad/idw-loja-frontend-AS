@@ -1,0 +1,8 @@
+$body-bg: #eee;
+
+@import "~bootstrap/scss/bootstrap";
+
+.card-footer {
+  background-color: inherit;
+  border-top: none;
+}
